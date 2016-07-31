@@ -4,7 +4,7 @@
     <h2><%: Title %>.</h2>
     <h3>Contact Info</h3>
     <address>
-        Microsoft MVP
+        Microsoft MVP Windows Platform
         Russ Fustino<br />
         4826 Marine Pkwy Unit 104<br /> 
         New Port Richey, FL 34652<br />
